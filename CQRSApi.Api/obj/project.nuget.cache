@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UOEbIl3qwjs=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Api\\CQRSApi.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmed\\.nuget\\packages\\microsoft.aspnetcore.openapi\\11.0.0-preview.1.26104.118\\microsoft.aspnetcore.openapi.11.0.0-preview.1.26104.118.nupkg.sha512",
+    "C:\\Users\\ahmed\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}

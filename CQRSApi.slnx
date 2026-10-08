@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CQRSApi.Api/CQRSApi.Api.csproj" />
+  <Project Path="CQRSApi.Application/CQRSApi.Application.csproj" />
+  <Project Path="CQRSApi.Domain/CQRSApi.Domain.csproj" />
+  <Project Path="CQRSApi.Infrastructure/CQRSApi.Infrastructure.csproj" />
+</Solution>

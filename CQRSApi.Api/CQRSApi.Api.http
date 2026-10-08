@@ -1,0 +1,13 @@
+@CQRSApi.Api_HostAddress = http://localhost:5238
+
+#if (EnableOpenAPI)
+GET {{CQRSApi.Api_HostAddress}}/openapi/v1.json
+Accept: application/json
+
+###
+#endif
+
+GET {{CQRSApi.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
