@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "2wv7HPA7q3c=",
+  "dgSpecHash": "ksRcxUrIVrU=",
   "success": true,
-  "projectFilePath": "c:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Application\\CQRSApi.Application.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Application\\CQRSApi.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmed\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.12\\microsoft.extensions.dependencyinjection.abstractions.10.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

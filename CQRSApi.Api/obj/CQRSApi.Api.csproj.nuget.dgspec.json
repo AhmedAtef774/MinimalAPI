@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Api\\CQRSApi.Api.csproj": {}
+    "C:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Api\\CQRSApi.Api.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Api\\CQRSApi.Api.csproj": {
+    "C:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Api\\CQRSApi.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Api\\CQRSApi.Api.csproj",
+        "projectUniqueName": "C:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Api\\CQRSApi.Api.csproj",
         "projectName": "CQRSApi.Api",
-        "projectPath": "c:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Api\\CQRSApi.Api.csproj",
+        "projectPath": "C:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Api\\CQRSApi.Api.csproj",
         "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Api\\obj\\",
+        "outputPath": "C:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
@@ -36,11 +36,11 @@
           "net11.0": {
             "targetAlias": "net11.0",
             "projectReferences": {
-              "c:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Application\\CQRSApi.Application.csproj": {
-                "projectPath": "c:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Application\\CQRSApi.Application.csproj"
+              "C:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Application\\CQRSApi.Application.csproj": {
+                "projectPath": "C:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Application\\CQRSApi.Application.csproj"
               },
-              "c:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Infrastructure\\CQRSApi.Infrastructure.csproj": {
-                "projectPath": "c:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Infrastructure\\CQRSApi.Infrastructure.csproj"
+              "C:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Infrastructure\\CQRSApi.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Infrastructure\\CQRSApi.Infrastructure.csproj"
               }
             }
           }
@@ -508,14 +508,14 @@
         }
       }
     },
-    "c:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Application\\CQRSApi.Application.csproj": {
+    "C:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Application\\CQRSApi.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Application\\CQRSApi.Application.csproj",
+        "projectUniqueName": "C:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Application\\CQRSApi.Application.csproj",
         "projectName": "CQRSApi.Application",
-        "projectPath": "c:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Application\\CQRSApi.Application.csproj",
+        "projectPath": "C:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Application\\CQRSApi.Application.csproj",
         "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Application\\obj\\",
+        "outputPath": "C:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
@@ -540,8 +540,8 @@
           "net11.0": {
             "targetAlias": "net11.0",
             "projectReferences": {
-              "c:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Domain\\CQRSApi.Domain.csproj": {
-                "projectPath": "c:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Domain\\CQRSApi.Domain.csproj"
+              "C:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Domain\\CQRSApi.Domain.csproj": {
+                "projectPath": "C:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Domain\\CQRSApi.Domain.csproj"
               }
             }
           }
@@ -561,6 +561,12 @@
       "frameworks": {
         "net11.0": {
           "targetAlias": "net11.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[10.0.12, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -855,14 +861,14 @@
         }
       }
     },
-    "c:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Domain\\CQRSApi.Domain.csproj": {
+    "C:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Domain\\CQRSApi.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Domain\\CQRSApi.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Domain\\CQRSApi.Domain.csproj",
         "projectName": "CQRSApi.Domain",
-        "projectPath": "c:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Domain\\CQRSApi.Domain.csproj",
+        "projectPath": "C:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Domain\\CQRSApi.Domain.csproj",
         "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Domain\\obj\\",
+        "outputPath": "C:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
@@ -1198,14 +1204,14 @@
         }
       }
     },
-    "c:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Infrastructure\\CQRSApi.Infrastructure.csproj": {
+    "C:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Infrastructure\\CQRSApi.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Infrastructure\\CQRSApi.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Infrastructure\\CQRSApi.Infrastructure.csproj",
         "projectName": "CQRSApi.Infrastructure",
-        "projectPath": "c:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Infrastructure\\CQRSApi.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Infrastructure\\CQRSApi.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
@@ -1230,8 +1236,8 @@
           "net11.0": {
             "targetAlias": "net11.0",
             "projectReferences": {
-              "c:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Application\\CQRSApi.Application.csproj": {
-                "projectPath": "c:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Application\\CQRSApi.Application.csproj"
+              "C:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Application\\CQRSApi.Application.csproj": {
+                "projectPath": "C:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Application\\CQRSApi.Application.csproj"
               }
             }
           }
@@ -1251,6 +1257,28 @@
       "frameworks": {
         "net11.0": {
           "targetAlias": "net11.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.89, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[7.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[10.0.12, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.12, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[10.0.12, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

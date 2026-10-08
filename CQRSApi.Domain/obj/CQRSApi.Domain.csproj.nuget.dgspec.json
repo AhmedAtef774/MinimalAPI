@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Domain\\CQRSApi.Domain.csproj": {}
+    "C:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Domain\\CQRSApi.Domain.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Domain\\CQRSApi.Domain.csproj": {
+    "C:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Domain\\CQRSApi.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Domain\\CQRSApi.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Domain\\CQRSApi.Domain.csproj",
         "projectName": "CQRSApi.Domain",
-        "projectPath": "c:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Domain\\CQRSApi.Domain.csproj",
+        "projectPath": "C:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Domain\\CQRSApi.Domain.csproj",
         "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Domain\\obj\\",
+        "outputPath": "C:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",

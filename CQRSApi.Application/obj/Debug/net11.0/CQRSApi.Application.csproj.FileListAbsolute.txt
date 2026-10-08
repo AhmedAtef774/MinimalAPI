@@ -1,0 +1,16 @@
+C:\Users\ahmed\Desktop\MinimalApi\CQRSApi.Application\bin\Debug\net11.0\CQRSApi.Application.deps.json
+C:\Users\ahmed\Desktop\MinimalApi\CQRSApi.Application\bin\Debug\net11.0\CQRSApi.Application.dll
+C:\Users\ahmed\Desktop\MinimalApi\CQRSApi.Application\bin\Debug\net11.0\CQRSApi.Application.pdb
+C:\Users\ahmed\Desktop\MinimalApi\CQRSApi.Application\bin\Debug\net11.0\CQRSApi.Domain.dll
+C:\Users\ahmed\Desktop\MinimalApi\CQRSApi.Application\bin\Debug\net11.0\CQRSApi.Domain.pdb
+C:\Users\ahmed\Desktop\MinimalApi\CQRSApi.Application\obj\Debug\net11.0\CQRSApi.Application.csproj.AssemblyReference.cache
+C:\Users\ahmed\Desktop\MinimalApi\CQRSApi.Application\obj\Debug\net11.0\CQRSApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\Desktop\MinimalApi\CQRSApi.Application\obj\Debug\net11.0\CQRSApi.Application.AssemblyInfoInputs.cache
+C:\Users\ahmed\Desktop\MinimalApi\CQRSApi.Application\obj\Debug\net11.0\CQRSApi.Application.AssemblyInfo.cs
+C:\Users\ahmed\Desktop\MinimalApi\CQRSApi.Application\obj\Debug\net11.0\CQRSApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\MinimalApi\CQRSApi.Application\obj\Debug\net11.0\CQRSApi.Application.sourcelink.json
+C:\Users\ahmed\Desktop\MinimalApi\CQRSApi.Application\obj\Debug\net11.0\CQRSApi..C92D7E95.Up2Date
+C:\Users\ahmed\Desktop\MinimalApi\CQRSApi.Application\obj\Debug\net11.0\CQRSApi.Application.dll
+C:\Users\ahmed\Desktop\MinimalApi\CQRSApi.Application\obj\Debug\net11.0\refint\CQRSApi.Application.dll
+C:\Users\ahmed\Desktop\MinimalApi\CQRSApi.Application\obj\Debug\net11.0\CQRSApi.Application.pdb
+C:\Users\ahmed\Desktop\MinimalApi\CQRSApi.Application\obj\Debug\net11.0\ref\CQRSApi.Application.dll

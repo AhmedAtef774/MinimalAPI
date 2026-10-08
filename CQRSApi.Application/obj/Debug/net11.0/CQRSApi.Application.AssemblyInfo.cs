@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CQRSApi.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f7520cbb1cd06c20ec52cc9817579a692bade09")]
 [assembly: System.Reflection.AssemblyProductAttribute("CQRSApi.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CQRSApi.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,12 @@
+C:\Users\ahmed\Desktop\MinimalApi\CQRSApi.Domain\bin\Debug\net11.0\CQRSApi.Domain.deps.json
+C:\Users\ahmed\Desktop\MinimalApi\CQRSApi.Domain\bin\Debug\net11.0\CQRSApi.Domain.dll
+C:\Users\ahmed\Desktop\MinimalApi\CQRSApi.Domain\bin\Debug\net11.0\CQRSApi.Domain.pdb
+C:\Users\ahmed\Desktop\MinimalApi\CQRSApi.Domain\obj\Debug\net11.0\CQRSApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\Desktop\MinimalApi\CQRSApi.Domain\obj\Debug\net11.0\CQRSApi.Domain.AssemblyInfoInputs.cache
+C:\Users\ahmed\Desktop\MinimalApi\CQRSApi.Domain\obj\Debug\net11.0\CQRSApi.Domain.AssemblyInfo.cs
+C:\Users\ahmed\Desktop\MinimalApi\CQRSApi.Domain\obj\Debug\net11.0\CQRSApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\MinimalApi\CQRSApi.Domain\obj\Debug\net11.0\CQRSApi.Domain.sourcelink.json
+C:\Users\ahmed\Desktop\MinimalApi\CQRSApi.Domain\obj\Debug\net11.0\CQRSApi.Domain.dll
+C:\Users\ahmed\Desktop\MinimalApi\CQRSApi.Domain\obj\Debug\net11.0\refint\CQRSApi.Domain.dll
+C:\Users\ahmed\Desktop\MinimalApi\CQRSApi.Domain\obj\Debug\net11.0\CQRSApi.Domain.pdb
+C:\Users\ahmed\Desktop\MinimalApi\CQRSApi.Domain\obj\Debug\net11.0\ref\CQRSApi.Domain.dll

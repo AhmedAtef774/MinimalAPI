@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ahmed\\Desktop\\MinimalAPI\\CQRSApi.Domain\\CQRSApi.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Domain\\CQRSApi.Domain.csproj",
       "projectName": "CQRSApi.Domain",
-      "projectPath": "C:\\Users\\ahmed\\Desktop\\MinimalAPI\\CQRSApi.Domain\\CQRSApi.Domain.csproj",
+      "projectPath": "C:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Domain\\CQRSApi.Domain.csproj",
       "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ahmed\\Desktop\\MinimalAPI\\CQRSApi.Domain\\obj\\",
+      "outputPath": "C:\\Users\\ahmed\\Desktop\\MinimalApi\\CQRSApi.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
